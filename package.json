@@ -1,0 +1,29 @@
+{
+  "name": "mustache-ractive-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "babel",
+    "loader",
+    "ractive",
+    "mustache",
+    "webpack"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/user-dob/mustache-ractive-loader.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/user-dob/mustache-ractive-loader/issues"
+  },
+  "homepage": "https://github.com/user-dob/mustache-ractive-loader#readme",
+  "dependencies": {
+    "ractive": "^0.7.3"
+  }
+}
