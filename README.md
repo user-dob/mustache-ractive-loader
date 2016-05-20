@@ -8,13 +8,11 @@
 
 webpack.config.js
 ``` javascript
-var mustache = require("mustache-ractive-loader");
-
 module: {
 	loaders: [
 		{
 			test: /\.mustache$/,
-			loader: 'mustache',
+			loader: 'mustache-ractive-loader',
 		}
 	]
 }
